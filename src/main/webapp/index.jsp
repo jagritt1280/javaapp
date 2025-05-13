@@ -8,5 +8,6 @@
 <a href="test.jsp">Test page</a>
 <hr>
 <h1>This is new line added</h1>
+<h1>This is again new line added</h1>
 </body>
 </html>
