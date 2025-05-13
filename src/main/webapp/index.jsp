@@ -5,5 +5,6 @@
 <p>This is test</p>
 <a href="about.jsp">About page</a>
 <a href="services.jsp">Services page</a>
+<a href="test.jsp">Test page</a>
 </body>
 </html>
